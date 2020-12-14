@@ -3,6 +3,7 @@
 
 CMakeFiles/static_library_exe.dir/src/main.cpp.o
  ../include/gist/AccelerateFFT.h
+ ../include/gist/AudioFile.h
  ../include/gist/CoreFrequencyDomainFeatures.h
  ../include/gist/CoreTimeDomainFeatures.h
  ../include/gist/Gist.h

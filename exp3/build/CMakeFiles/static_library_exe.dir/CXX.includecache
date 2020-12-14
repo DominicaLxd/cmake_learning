@@ -10,6 +10,26 @@
 Accelerate/Accelerate.h
 -
 
+../include/gist/AudioFile.h
+iostream
+-
+vector
+-
+cassert
+-
+string
+-
+cstring
+-
+fstream
+-
+unordered_map
+-
+iterator
+-
+algorithm
+-
+
 ../include/gist/CoreFrequencyDomainFeatures.h
 vector
 -
@@ -93,4 +113,6 @@ static/Hello.h
 /Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/src/static/Hello.h
 gist/Gist.h
 /Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/src/gist/Gist.h
+gist/AudioFile.h
+/Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/src/gist/AudioFile.h
 

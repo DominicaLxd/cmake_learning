@@ -34,3 +34,5 @@ GIST_lib)
 target_link_libraries(static_library_exe # 可执行文件，链接到库static_library
     PRIVATE 
     static_lib)
+
+set_property(TARGET static_library_exe PROPERTY CXX_STANDARD 14)

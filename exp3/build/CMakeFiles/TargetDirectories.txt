@@ -1,0 +1,5 @@
+/Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/build/CMakeFiles/rebuild_cache.dir
+/Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/build/CMakeFiles/edit_cache.dir
+/Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/build/CMakeFiles/static_library_exe.dir
+/Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/build/CMakeFiles/static_lib.dir
+/Users/dominica/Downloads/learning_cpp/cmake_learning/exp3/build/CMakeFiles/GIST_lib.dir

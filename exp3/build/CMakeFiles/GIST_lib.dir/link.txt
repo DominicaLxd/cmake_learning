@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libGIST_lib.a  CMakeFiles/GIST_lib.dir/include/gist/gist.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libGIST_lib.a

@@ -1,0 +1,3 @@
+/Users/dominica/Downloads/learning_cpp/cmake_learning/MFCC/build/CMakeFiles/rebuild_cache.dir
+/Users/dominica/Downloads/learning_cpp/cmake_learning/MFCC/build/CMakeFiles/edit_cache.dir
+/Users/dominica/Downloads/learning_cpp/cmake_learning/MFCC/build/CMakeFiles/mfcc.dir
